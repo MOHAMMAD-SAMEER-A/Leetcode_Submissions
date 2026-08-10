@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MOHAMMAD-SAMEER-A/Leetcode_Submissions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/MOHAMMAD-SAMEER-A/Leetcode_Submissions/tree/master/0137-single-number-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/MOHAMMAD-SAMEER-A/Leetcode_Submissions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
